@@ -4,7 +4,7 @@
  "rules": [
  {
  "tag": "default",
- "url-source": "intent://extra/url",
+ "url-source": "intent://extra/rawUrl",
  "url-filter": {
  "ignore": ".*tieba\\.com.*",
  "force": ""
