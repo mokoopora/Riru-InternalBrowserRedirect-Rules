@@ -27,6 +27,10 @@
                 {
                         "packageName": "com.eg.android.AlipayGphone",
                         "version": 1
+		},
+                {
+                        "packageName": "com.douban.frodo",
+                        "version": 1
 		}
 	]
 }
