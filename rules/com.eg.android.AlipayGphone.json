@@ -1,0 +1,14 @@
+{
+    "tag": "Alipay",
+    "authors": "qaz617",
+    "rules": [
+        {
+            "tag": "default",
+            "url-source": "intent://extra//mExtras//url",
+            "url-filter": {
+                "ignore": ".*pay\\.com.*",
+                "force": ""
+            }
+        }
+    ]
+}
