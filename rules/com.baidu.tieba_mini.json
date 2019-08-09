@@ -6,7 +6,7 @@
  "tag": "default",
  "url-source": "intent://extra/tag_url",
  "url-filter": {
- "ignore": "*.tieba\\.com.*",
+ "ignore": ".*tieba\\.com/.*",
  "force": ""
  }
  }
