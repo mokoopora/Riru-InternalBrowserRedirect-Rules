@@ -6,7 +6,7 @@
             "tag": "default",
             "url-source": "intent://extra/com.douban.frodo.LOAD_URL",
             "url-filter": {
-                "ignore": "",
+                "ignore": ".*douban\\.com.*",
                 "force": ""
             }
         }
