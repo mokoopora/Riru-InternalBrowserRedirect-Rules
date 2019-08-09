@@ -1,0 +1,14 @@
+{
+    "tag": "Weibo",
+    "authors": "qaz617",
+    "rules": [
+        {
+            "tag": "default",
+            "url-source": "intent://extra/com_sina_weibo_weibobrowser_url",
+            "url-filter": {
+                "ignore": ".*weibo\\.com.*",
+                "force": ""
+            }
+        }
+    ]
+}
