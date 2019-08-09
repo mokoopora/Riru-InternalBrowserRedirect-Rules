@@ -1,0 +1,14 @@
+{
+    "tag": "douban",
+    "authors": "qaz617",
+    "rules": [
+        {
+            "tag": "default",
+            "url-source": "intent://extra/com.douban.frodo.LOAD_URL",
+            "url-filter": {
+                "ignore": "",
+                "force": ""
+            }
+        }
+    ]
+}
