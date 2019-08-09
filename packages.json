@@ -9,16 +9,20 @@
 			"version": 1
 		},
 		{
-            "packageName": "tv.danmaku.bili",
-            "version": 2
+                        "packageName": "tv.danmaku.bili",
+                        "version": 2
 		},
 		{
-            "packageName": "com.bilibili.app.in",
-            "version": 2
+                        "packageName": "com.bilibili.app.in",
+                        "version": 2
 		},
 		{
-            "packageName": "com.tencent.mobileqq",
-            "version": 1
+                        "packageName": "com.tencent.mobileqq",
+                        "version": 1
+                },
+                {
+                        "packageName": "com.baidu.tieba_mini",
+                        "version": 1
 		}
 	]
 }
