@@ -23,6 +23,10 @@
                 {
                         "packageName": "com.baidu.tieba_mini",
                         "version": 3
+		},
+                {
+                        "packageName": "com.eg.android.AlipayGphone",
+                        "version": 1
 		}
 	]
 }
