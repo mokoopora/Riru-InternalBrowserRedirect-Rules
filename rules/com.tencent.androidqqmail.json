@@ -1,0 +1,14 @@
+{
+    "tag": "QQ Mail",
+    "authors": "热心网友",
+    "rules": [
+        {
+            "tag": "default",
+            "url-source": "intent://extra/url",
+            "url-filter": {
+                "ignore": "",
+                "force": ""
+            }
+        }
+    ]
+}
