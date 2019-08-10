@@ -31,6 +31,10 @@
                 {
                         "packageName": "com.sina.weibo",
                         "version": 1
+		},
+                {
+                        "packageName": "com.baidu.tieba_mini",
+                        "version": 1
 		}
 	]
 }
