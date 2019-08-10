@@ -35,6 +35,10 @@
                 {
                         "packageName": "com.baidu.tieba_mini",
                         "version": 1
+		},
+                {
+                        "packageName": "com.tencent.androidqqmail",
+                        "version": 1
 		}
 	]
 }
