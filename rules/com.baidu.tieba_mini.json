@@ -1,0 +1,14 @@
+{
+    "tag": "Tieba",
+    "authors": "qaz617",
+    "rules": [
+        {
+            "tag": "default",
+            "url-source": "intent://extra/tag_url",
+            "url-filter": {
+                "ignore": ".*baidu\\.com/.*",
+                "force": ""
+            }
+        }
+    ]
+}
