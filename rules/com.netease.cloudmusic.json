@@ -1,0 +1,14 @@
+{
+    "tag": "网易云音乐",
+    "authors": "qaz617",
+    "rules": [
+        {
+            "tag": "default",
+            "url-source": "intent://extra/Action",
+            "url-filter": {
+                "ignore": ".*163\\.com.*",
+                "force": ""
+            }
+        }
+    ]
+}
