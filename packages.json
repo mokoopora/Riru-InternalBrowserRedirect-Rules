@@ -39,10 +39,6 @@
                 {
                         "packageName": "com.tencent.androidqqmail",
                         "version": 1
-		},
-                {
-                        "packageName": "com.netease.cloudmusic",
-                        "version": 1
 		}
 	]
 }
