@@ -39,6 +39,10 @@
                 {
                         "packageName": "com.tencent.androidqqmail",
                         "version": 1
+		},
+                {
+                        "packageName": "cn.deepink.reader",
+                        "version": 1
 		}
 	]
 }
