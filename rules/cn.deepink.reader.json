@@ -1,0 +1,14 @@
+{
+    "tag": "厚墨",
+    "authors": "qaz617",
+    "rules": [
+        {
+            "tag": "default",
+            "url-source": "intent://extra/article_link",
+            "url-filter": {
+                "ignore": "",
+                "force": ""
+            }
+        }
+    ]
+}
