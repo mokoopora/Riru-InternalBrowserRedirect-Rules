@@ -43,6 +43,10 @@
                 {
                         "packageName": "cn.deepink.reader",
                         "version": 1
+		},
+                {
+                        "packageName": "com.tencent.qqlite",
+                        "version": 1
 		}
 	]
 }
