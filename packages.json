@@ -41,7 +41,7 @@
                         "version": 1
 		},
                 {
-                        "packageName": "cn.deepink.reader",
+                        "packageName": "com.tencent.qqlite",
                         "version": 1
 		}
 	]
