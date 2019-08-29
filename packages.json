@@ -42,7 +42,7 @@
 		},
                 {
                         "packageName": "com.tencent.qqlite",
-                        "version": 1
+                        "version": 2
 		}
 	]
 }
