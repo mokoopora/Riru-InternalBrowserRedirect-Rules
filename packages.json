@@ -43,6 +43,10 @@
                 {
                         "packageName": "com.tencent.qqlite",
                         "version": 2
+		},
+                {
+                        "packageName": "app.kz_bot",
+                        "version": 1
 		}
 	]
 }
