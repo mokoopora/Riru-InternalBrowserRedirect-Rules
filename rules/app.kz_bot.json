@@ -1,0 +1,14 @@
+  {
+    "tag": "快知",
+    "authors": "qaz617",
+    "rules": [
+        {
+            "tag": "default",
+            "url-source": "intent://extra/url",
+            "url-filter": {
+                "ignore": "",
+                "force": ""
+            }
+        }
+    ]
+}
