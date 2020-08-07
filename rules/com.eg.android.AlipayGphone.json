@@ -4,9 +4,9 @@
     "rules": [
         {
             "tag": "default",
-            "url-source": "intent://extra//mExtras//ariverStartBundle",
+            "url-source": "intent://extra//mExtras//ariverStartBundle/StartClientBundle//url",
             "url-filter": {
-                "ignore": ".*launcherParamUrl=,.*",
+                "ignore": "^/.*",
                 "force": ""
             }
         }
