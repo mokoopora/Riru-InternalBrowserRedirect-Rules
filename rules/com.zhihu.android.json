@@ -4,10 +4,10 @@
     "rules": [
         {
             "tag": "default",
-            "url-source": "intent://Data",
+            "url-source": "intent://data",
             "url-filter": {
                 "ignore": "",
-                "force": ""
+                "force": ".*link.zhihu.com.*"
             }
         }
     ]
