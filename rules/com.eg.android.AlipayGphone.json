@@ -4,7 +4,7 @@
     "rules": [
         {
             "tag": "default",
-            "url-source": "intent://extra//mExtras//url",
+            "url-source": "intent://extra//mExtras//ariverStartBundle",
             "url-filter": {
                 "ignore": ".*pay\\.com.*",
                 "force": ""
