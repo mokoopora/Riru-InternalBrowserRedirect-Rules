@@ -7,6 +7,13 @@
             "url-source": "intent://extra//mExtras//ariverStartBundle",
             "url-filter": {
                 "ignore": ".*pay\\.com.*",
+                "force": ".*launcherParamUrl.*"
+            },
+ {
+            "tag": "app",
+            "url-source": "intent://extra//mExtras//ariverStartBundle",
+            "url-filter": {
+                "ignore": ".*launcherParamUrl=,.*",
                 "force": ""
             }
         }

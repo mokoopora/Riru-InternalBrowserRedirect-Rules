@@ -45,6 +45,10 @@
                         "version": 2
 		},
                 {
+                        "packageName": "com.zhihu.android",
+                        "version": 1
+		},
+                {
                         "packageName": "app.kz_bot",
                         "version": 1
 		}
