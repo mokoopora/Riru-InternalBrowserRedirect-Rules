@@ -4,7 +4,7 @@
     "rules": [
         {
             "tag": "default",
-            "url-source": "intent://extra//mExtras//ariverStartBundle/StartClientBundle//url",
+            "url-source": "intent://extra//mExtras//ariverStartBundle/StartClientBundle/url",
             "url-filter": {
                 "ignore": "^/.*",
                 "force": ""
