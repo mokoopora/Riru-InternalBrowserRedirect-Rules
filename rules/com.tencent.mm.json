@@ -1,14 +1,22 @@
 {
-    "tag": "WeChat",
-    "authors": "Kr328",
-    "rules": [
-        {
-            "tag": "default",
-            "url-source": "intent://extra/rawUrl",
-            "url-filter": {
-                "ignore": ".*qq\\.com/.*",
-                "force": ""
-            }
-        }
-    ]
+  "tag": "WeChat",
+  "authors": "Kr328",
+  "rules": [
+    {
+      "tag": "default",
+      "url-source": "intent://extra/rawUrl",
+      "url-filter": {
+        "ignore": ".*qq\\.com/.*",
+        "force": ""
+      }
+    },
+    {
+      "tag": "QRScanner",
+      "url-source": "intent://extra/rawUrl/url",
+      "url-filter": {
+        "ignore": ".*qq\\.com/.*",
+        "force": ""
+      }
+    }
+  ]
 }

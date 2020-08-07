@@ -1,0 +1,14 @@
+{
+    "tag": "Zhihu",
+    "authors": "mokoopora",
+    "rules": [
+        {
+            "tag": "default",
+            "url-source": "intent://Data",
+            "url-filter": {
+                "ignore": "",
+                "force": ""
+            }
+        }
+    ]
+}

@@ -1,12 +1,12 @@
 {
-  "tag": "Bilibili",
+  "tag": "DingTalk",
   "authors": "Kr328",
   "rules": [
     {
       "tag": "default",
-      "url-source": "intent://data",
+      "url-source": "intent://extra/url",
       "url-filter": {
-        "ignore": ".*bilibili\\.com.*",
+        "ignore": ".*dingtalkapps\\.com/.*",
         "force": ""
       }
     }
